@@ -6,7 +6,7 @@ import { ConnectedRouter } from 'connected-react-router'
 import configureStore, { history } from './configureStore'
 import App from './components/App';
 
-import './index.css'
+// import './index.css'
 //https://github.com/supasate/connected-react-router
 const store = configureStore(/* provide initial state if any */)
 
